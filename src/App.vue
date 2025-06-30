@@ -9,7 +9,6 @@
 import { Root, Toast, Popover, useUserState } from "@wearesage/vue";
 import Renderer from "./components/Renderer.vue";
 
-// Initialize user state tracking (which initializes auth + socket)
 useUserState();
 </script>
 
