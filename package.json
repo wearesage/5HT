@@ -10,7 +10,7 @@
   "dependencies": {
     "@tresjs/core": "4.3.6",
     "@vueuse/core": "13.3.0",
-    "@wearesage/vue": "2.1.0",
+    "@wearesage/vue": "2.1.1",
     "@wearesage/shared": "1.1.0",
     "d3-interpolate": "^3.0.1",
     "pinia": "3.0.3",
